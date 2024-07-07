@@ -1,0 +1,1 @@
+How can you use nested `ArrayList`s in Java to store multiple categories of favorite items (such as devices, cars, and travel destinations) and then retrieve specific lists and individual items from these categories?
