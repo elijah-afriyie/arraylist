@@ -1,0 +1,1 @@
+How can you use the `ArrayList` class in Java to add elements, modify an element, remove an element, and clear the entire list?
